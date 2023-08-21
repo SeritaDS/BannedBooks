@@ -1,4 +1,7 @@
 # BannedBooks
+
+Taking an excel sheet of over 2000+ entries of banned books & organizing the data. 
+
 Creating a dataframe from an excel sheet of banned books and organizing the data.
 In this code I used pandas a python data analysis library as well as the built in tools matplotlib and plotly. 
 
